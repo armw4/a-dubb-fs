@@ -1,0 +1,12 @@
+C:\Projects\NBAPlayoffsFS\NBAPlayoffsFS\bin\Debug\NBAPlayoffsFS.XML
+C:\Projects\NBAPlayoffsFS\NBAPlayoffsFS\bin\Debug\NBAPlayoffsFS.exe
+C:\Projects\NBAPlayoffsFS\NBAPlayoffsFS\bin\Debug\NBAPlayoffsFS.pdb
+C:\Projects\NBAPlayoffsFS\NBAPlayoffsFS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\NBAPlayoffsFS\NBAPlayoffsFS\obj\x86\Debug\NBAPlayoffsFS.exe
+C:\Projects\NBAPlayoffsFS\NBAPlayoffsFS\obj\x86\Debug\NBAPlayoffsFS.pdb
+C:\Projects\A-Dubb-FS\NBAPlayoffsFS\bin\Debug\NBAPlayoffsFS.XML
+C:\Projects\A-Dubb-FS\NBAPlayoffsFS\bin\Debug\NBAPlayoffsFS.exe
+C:\Projects\A-Dubb-FS\NBAPlayoffsFS\bin\Debug\NBAPlayoffsFS.pdb
+C:\Projects\A-Dubb-FS\NBAPlayoffsFS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\A-Dubb-FS\NBAPlayoffsFS\obj\x86\Debug\NBAPlayoffsFS.exe
+C:\Projects\A-Dubb-FS\NBAPlayoffsFS\obj\x86\Debug\NBAPlayoffsFS.pdb
